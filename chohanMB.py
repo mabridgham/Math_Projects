@@ -1,5 +1,5 @@
 # https://nostarch.com/big-book-small-python-projects
-# Cho-Han, by Al Sweigart al@inventwithpython.com
+# Cho-Han
 # The traditional Japanese dice game of even-odd.
 
 import random, sys
