@@ -1,4 +1,4 @@
-# https://nostarch.com/big-book-small-python-programming
+# https://nostarch.com/big-book-small-python-programming (BSD Licensed)
 # Fibonacci Sequence
 # Calculates numbers of the Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13...
 

@@ -1,4 +1,4 @@
-# https://nostarch.com/big-book-small-python-projects
+# https://nostarch.com/big-book-small-python-projects (BSD Licensed)
 # Cho-Han
 # The traditional Japanese dice game of even-odd.
 

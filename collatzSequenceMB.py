@@ -1,4 +1,4 @@
-# https://nostarch.com/big-book-small-python-programming
+# https://nostarch.com/big-book-small-python-programming (BSD Licensed)
 # Collatz Sequence
 # Generates numbers for the Collatz sequence, given a starting number.
 # More info at: https://en.wikipedia.org/wiki/Collatz_conjecture
