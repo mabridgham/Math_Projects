@@ -1,7 +1,7 @@
 # Math_Projects
 
 Like the Cryptography project, eventually hope to combine many small programs into one larger command line program 
-mostly for fun but also may be helpful with mathematically calculations when needed.
+mostly for fun but also may be helpful with mathematical calculations when needed.
 
 Collection of open source Math python projects that I am currently working on. All source code programs were
 obtained and modified from the source below, as well as any .txt files that are included. Also, some of the 
