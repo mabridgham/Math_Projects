@@ -21,7 +21,7 @@ print('Enter the number (greater than 0) you would like to start with or type \'
 response = input('> ')
 
 
-while response != 'QUIT':
+while response.upper() != 'QUIT':
 
     if not response.isdecimal() or response == '0':
         print('I\'m sorry but you must enter an integer greater than 0.')
