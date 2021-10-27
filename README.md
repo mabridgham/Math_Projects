@@ -1,6 +1,6 @@
 # Math_Projects
 
-Like the Cryptography project, eventually hope to combine many small programs into one larger command line program to 
+Like the Cryptography project, eventually hope to combine many small programs into one larger command line program 
 mostly for fun but also may be helpful with mathematically calculations when needed.
 
 Collection of open source Math python projects that I am currently working on. All source code programs were
